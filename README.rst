@@ -27,9 +27,9 @@ Tested
 TODO
 ====
 
-  * Add suport for the Django latest version 
-  * Implement fields for regions, states, municipalities and parishes based on ISO-3166-2:VE_ regulations.
-  * Add examples to use the Venezuelan Local Flavor
+  * Add full support to ISO-3166-2:VE_ regulations.
+  * Add examples to use the Venezuelan localflavor.
+  * Write tests for all fields
 
 .. _Django: http://djangoproject.com/
 .. _localflavor: http://docs.djangoproject.com/en/dev/ref/contrib/localflavor/
